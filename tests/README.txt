@@ -1,0 +1,1 @@
+The former browser-side Go-Back-N smoke test was removed because the algorithm now runs in Java. Validate the Java backend through the running Flowgate application. Add Java unit tests here if needed.
